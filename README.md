@@ -1,6 +1,6 @@
 # Elvis Hoang
 
-I’m a Management Information Systems student at the University of Oklahoma, with an expected graduation in summer 2027. My projects focus on reviewing user access, working with relational data, and troubleshooting Windows and Linux systems.
+I’m a Management Information Systems student at the University of Oklahoma, with an expected graduation in December 2026. My projects focus on reviewing user access, working with relational data, and troubleshooting Windows and Linux systems.
 
 ## Selected projects
 
@@ -14,4 +14,4 @@ I’m a Management Information Systems student at the University of Oklahoma, wi
 - **Databases:** Relational queries and enhanced entity-relationship diagrams
 - **Systems:** Windows, Linux, Docker Compose, and Wazuh
 
-[Portfolio and project case studies](https://hoanguy12.github.io/) · [LinkedIn](https://www.linkedin.com/in/elvis-hoang/)
+[Portfolio and project case studies](https://hoanguy12.github.io/) · [LinkedIn](https://www.linkedin.com/in/elvis-hoang/) · [Email me](mailto:hoangelvis12@gmail.com)
